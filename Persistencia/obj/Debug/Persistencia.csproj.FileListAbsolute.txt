@@ -1,0 +1,21 @@
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Modelo.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Persistencia\bin\Debug\Modelo.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Modelo.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Persistencia\obj\Debug\Persistencia.pdb

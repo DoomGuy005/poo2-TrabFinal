@@ -1,0 +1,16 @@
+﻿<Window x:Class="Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Windows"
+        mc:Ignorable="d"
+        Title="Loja de Carros" Height="527" Width="500" Closing="MainClosing">
+    <Grid>
+        <Button Click="CadastroClick" Content="Cadastro de Clientes" HorizontalAlignment="Left" Margin="111,333,0,0" VerticalAlignment="Top" Width="122" Height="44"/>
+        <Button Click="RegistroClick" Content="Registro de Peças" HorizontalAlignment="Left" Margin="111,382,0,0" VerticalAlignment="Top" Width="122" Height="44" IsEnabled="False"/>
+        <Button Click="PedidosClick" Content="Pedidos de Peças" HorizontalAlignment="Left" Margin="249,333,0,0" VerticalAlignment="Top" Width="122" Height="44" IsEnabled="False"/>
+        <Button Click="VendasClick" Content="Venda de Peças" HorizontalAlignment="Left" Margin="249,382,0,0" VerticalAlignment="Top" Width="122" Height="44" IsEnabled="False"/>
+        <Image Height="250" Margin="111,83,121,163" Source="img1.png" Stretch="Fill"/>
+    </Grid>
+</Window>

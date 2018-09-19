@@ -1,0 +1,24 @@
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Modelo\bin\Debug\Modelo.dll
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Modelo\obj\Debug\Modelo.dll
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\julio\Desktop\ProjetoPOO\Modelo\bin\Debug\Modelo.dll
+C:\Users\julio\Desktop\ProjetoPOO\Modelo\bin\Debug\Modelo.pdb
+C:\Users\julio\Desktop\ProjetoPOO\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\ProjetoPOO\Modelo\obj\Debug\Modelo.dll
+C:\Users\julio\Desktop\ProjetoPOO\Modelo\obj\Debug\Modelo.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Modelo\bin\Debug\Modelo.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Modelo\bin\Debug\Modelo.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Modelo\obj\Debug\Modelo.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Modelo\obj\Debug\Modelo.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Modelo\bin\Debug\Modelo.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Modelo\bin\Debug\Modelo.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Modelo\obj\Debug\Modelo.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Modelo\obj\Debug\Modelo.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Modelo\bin\Debug\Modelo.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Modelo\bin\Debug\Modelo.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Modelo\obj\Debug\Modelo.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Modelo\obj\Debug\Modelo.pdb

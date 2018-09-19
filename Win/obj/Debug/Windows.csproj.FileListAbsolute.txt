@@ -1,0 +1,138 @@
+C:\Users\20161011110005\Downloads\Modelo\Windows\bin\Debug\Windows.exe.config
+C:\Users\20161011110005\Downloads\Modelo\Windows\bin\Debug\Windows.exe
+C:\Users\20161011110005\Downloads\Modelo\Windows\bin\Debug\Windows.pdb
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\MainWindow.g.cs
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\App.g.cs
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows_MarkupCompile.cache
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows_MarkupCompile.lref
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\MainWindow.baml
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows.g.resources
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows.exe
+C:\Users\20161011110005\Downloads\Modelo\Windows\obj\Debug\Windows.pdb
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\CadastroWindow.g.cs
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\MainWindow.g.cs
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\PeçasWindow.g.cs
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\App.g.cs
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows_MarkupCompile.cache
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows_MarkupCompile.lref
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows.exe
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows.pdb
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\bin\Debug\Windows.exe.config
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\bin\Debug\Windows.exe
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\bin\Debug\Windows.pdb
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\CadastroWindow.baml
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\MainWindow.baml
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\PeçasWindow.baml
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows.g.resources
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\Jherod\Documents\Visual Studio 2017\Projects\WpfApp1\Win\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\CadastroWindow.g.cs
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\MainWindow.g.cs
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\PedidoWindow.g.cs
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\PeçasWindow.g.cs
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\VendasWindow.g.cs
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\App.g.cs
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.cache
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.lref
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows.exe
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows.pdb
+C:\Users\julio\Desktop\ProjetoPOO\Win\bin\Debug\Windows.exe.config
+C:\Users\julio\Desktop\ProjetoPOO\Win\bin\Debug\Windows.exe
+C:\Users\julio\Desktop\ProjetoPOO\Win\bin\Debug\Windows.pdb
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\CadastroWindow.baml
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\MainWindow.baml
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\PedidoWindow.baml
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\PeçasWindow.baml
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\VendasWindow.baml
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows.g.resources
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\julio\Desktop\ProjetoPOO\Win\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Windows.exe.config
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Windows.exe
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Windows.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Modelo.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Negócio.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Persistencia.dll
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Modelo.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Negócio.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Persistencia.pdb
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\CadastroWindow.g.cs
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\MainWindow.g.cs
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PedidoWindow.g.cs
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PeçasWindow.g.cs
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\VendasWindow.g.cs
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\App.g.cs
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.cache
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.lref
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\CadastroWindow.baml
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\MainWindow.baml
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PedidoWindow.baml
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PeçasWindow.baml
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\VendasWindow.baml
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.g.resources
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.exe
+C:\Users\julio\Documents\Visual Studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Windows.exe.config
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Windows.exe
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Windows.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Modelo.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Negócio.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Persistencia.dll
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Modelo.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Negócio.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\bin\Debug\Persistencia.pdb
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\CadastroWindow.g.cs
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\MainWindow.g.cs
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\PedidoWindow.g.cs
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\PeçasWindow.g.cs
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\VendasWindow.g.cs
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\App.g.cs
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.cache
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.lref
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\CadastroWindow.baml
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\MainWindow.baml
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\PedidoWindow.baml
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\PeçasWindow.baml
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\VendasWindow.baml
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows.g.resources
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows.exe
+C:\Users\julio\Desktop\projeto\ProjetoPOO\Win\obj\Debug\Windows.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Windows.exe.config
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Windows.exe
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Windows.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Modelo.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Negócio.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Persistencia.dll
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Modelo.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Negócio.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\bin\Debug\Persistencia.pdb
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\CadastroWindow.g.cs
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\MainWindow.g.cs
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PedidoWindow.g.cs
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PeçasWindow.g.cs
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\VendasWindow.g.cs
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\App.g.cs
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.cache
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows_MarkupCompile.lref
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\CadastroWindow.baml
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\MainWindow.baml
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PedidoWindow.baml
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\PeçasWindow.baml
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\VendasWindow.baml
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.g.resources
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.exe
+C:\Users\20161011110005\documents\visual studio 2017\Projects\ProjetoPOO\Win\obj\Debug\Windows.pdb
